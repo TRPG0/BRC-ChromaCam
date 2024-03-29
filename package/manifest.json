@@ -1,0 +1,9 @@
+{
+    "name": "ChromaCam",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TRPG0/BRC-ChromaCam",
+    "description": "Hide everything but the player so you can key them out in post.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
